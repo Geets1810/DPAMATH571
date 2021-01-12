@@ -1,9 +1,4 @@
 ---
-title: "STOCK ANALYSIS"
-author: "Tina"
-date: "4/16/2018"
-output: html_document
----
 Read in data and data pre-processing
 ```{r}
 rm(list=ls())
